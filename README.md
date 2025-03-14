@@ -1,6 +1,10 @@
 ## Deployment Server
 The deployment server is responsible for deploying the application to the production environment.
 
+## System Design
+
+![Design](./systemdesign.png)
+
 ## Tech Stack & AWS Services 
 - JavaScript
 - NodeJS
